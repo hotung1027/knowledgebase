@@ -1,0 +1,215 @@
+{
+  "workspaces": {
+    "base": {
+      "main": {
+        "id": "95fea9be19a8dc1e",
+        "type": "split",
+        "children": [
+          {
+            "id": "82b192d7124e53b2",
+            "type": "split",
+            "children": [
+              {
+                "id": "76d70d9018d5f0f8",
+                "type": "leaf",
+                "dimension": 11.743981209630068,
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Computer Science/Problems/Dynamic Programming/Untitled.md"
+                  }
+                }
+              },
+              {
+                "id": "f8cd1cba0afec2ca",
+                "type": "split",
+                "dimension": 88.25601879036995,
+                "children": [
+                  {
+                    "id": "3c55f761ad77feaf",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    },
+                    "group": "7fc57a51b4e9e729"
+                  },
+                  {
+                    "id": "b0fac75b6c331afe",
+                    "type": "split",
+                    "children": [
+                      {
+                        "id": "dfc00015e3ba3f60",
+                        "type": "leaf",
+                        "dimension": 43.762508338892594,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Computer Science/Problems/Dynamic Programming/Untitled.md",
+                            "mode": "source",
+                            "source": false
+                          }
+                        },
+                        "group": "7fc57a51b4e9e729"
+                      },
+                      {
+                        "id": "86467d7677280840",
+                        "type": "leaf",
+                        "dimension": 56.237491661107406,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Computer Science/Problems/Dynamic Programming/Untitled.md",
+                            "mode": "preview",
+                            "backlinks": false,
+                            "source": false
+                          }
+                        }
+                      }
+                    ],
+                    "direction": "vertical"
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a778ee9e8101cebc",
+        "type": "split",
+        "children": [
+          {
+            "id": "d46e704fbaaadc31",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6c78751e9e47a816",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a18274b1f4acf95c",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "7819e2ad75bcdef8",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "0b39657b0caf9314",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eff193c5fd898298",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "a98488dc8b8cafbb",
+        "type": "split",
+        "children": [
+          {
+            "id": "0927d371d2fdfd4e",
+            "type": "tabs",
+            "dimension": 44.87951807228915,
+            "children": [
+              {
+                "id": "2d8a1679d37d8724",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "bdef81d6a3fec593",
+            "type": "tabs",
+            "dimension": 21.762048192771086,
+            "children": [
+              {
+                "id": "efa4d9e12b60bacf",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Computer Science/Problems/Dynamic Programming/Untitled.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "8489bf04e578ce96",
+            "type": "tabs",
+            "dimension": 33.35843373493976,
+            "children": [
+              {
+                "id": "8765b7a1c14bb084",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Computer Science/Problems/Dynamic Programming/Untitled.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 497
+      },
+      "active": "dfc00015e3ba3f60"
+    }
+  },
+  "active": "base"
+}

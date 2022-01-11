@@ -1,0 +1,13 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-GB",
+    "en-US"
+  ],
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
+}
