@@ -13,7 +13,7 @@ $$
 $$
 \begin{align*}
 x_t &= \int_0^t \dot{x} dt \\
-x_t &= \int\int_0^t \ddot{x} dt)^2
+x_t &= \int\int_0^t \ddot{x} {dt}^2
 \end{align*}
 $$
 
