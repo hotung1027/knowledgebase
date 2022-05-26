@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f5db8cfb301552",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "3e2d808d092e54a1",
+        "type": "split",
+        "children": [
+          {
+            "id": "f138a782da35f6d3",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2f5db8cfb301552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -88,7 +103,7 @@
       {
         "id": "53bd0561d12e0336",
         "type": "tabs",
-        "dimension": 14.98216409036861,
+        "dimension": 8.097686375321338,
         "children": [
           {
             "id": "da3c5ac112a768ef",
@@ -97,22 +112,13 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "f138a782da35f6d3",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0927d371d2fdfd4e",
         "type": "tabs",
-        "dimension": 37.45541022592152,
+        "dimension": 40.488431876606676,
         "children": [
           {
             "id": "2d8a1679d37d8724",
@@ -127,7 +133,7 @@
       {
         "id": "bdef81d6a3fec593",
         "type": "tabs",
-        "dimension": 23.78121284185493,
+        "dimension": 25.706940874035986,
         "children": [
           {
             "id": "efa4d9e12b60bacf",
@@ -146,7 +152,7 @@
       {
         "id": "8489bf04e578ce96",
         "type": "tabs",
-        "dimension": 23.78121284185493,
+        "dimension": 25.706940874035986,
         "children": [
           {
             "id": "8765b7a1c14bb084",
