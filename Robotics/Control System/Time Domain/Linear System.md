@@ -13,8 +13,12 @@ $$
 $$
 \begin{align*}
 x_t &= \int_0^t \dot{x} dt \\
-x_t &= \int_0^t\int_0^t \ddot{x} {dt}^2
+
 \end{align*}
+$$
+
+$$
+x_t = \int_0^t\int_0^t \ddot{x} {dt}^2
 $$
 
 $$
