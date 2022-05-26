@@ -3,10 +3,12 @@
 
 suppose a 1-dimensional system in cartesian coordinate systems, $x$ ,
 $$
+\begin{*align}
 \begin{equation} 
-\begin{split}
+
 A & = \frac{\pi r^2}{2} 
  & = \frac{1}{2} \pi r^2
-\end{split}
 \end{equation}
+\end{*align}
+
 $$
