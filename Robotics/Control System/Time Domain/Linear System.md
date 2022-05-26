@@ -30,7 +30,7 @@ x_{t+1} &= x_t + \dot{x_t}t + \frac{1}{2} \ddot{x_t}t^2
 $$
 
 
-Then we can form a general state representation as, $q = [x , \dot{x} , \ddot{x}]^T$ , the control input $u$
+Then we can form a general state representation as, $q = [x , \dot{x} , \ddot{x}]^T$ , the control input force $u$
 The prior estimate $\hat{q}_{t+1|t} = A\hat{q_t} + B u$
 $$ A =
 \begin{bmatrix}
@@ -44,7 +44,7 @@ $$ A =
 $$
 
 $$
-B = \begin{bmatrix}
+B = \frac{1}{m} \begin{bmatrix}
 0 \\ 
 0 \\
 1
