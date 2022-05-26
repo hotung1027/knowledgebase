@@ -14,17 +14,12 @@ Now we trying to derive the position $x$ , from speed $\dot{x}$ and acceleration
 $$
 \begin{align*}
 x_t &= \int_0^t \dot{x}(t) dt \\
-x_t &= x(t) t - x(0) t + C \\
-&\text{when t = 0, and intial velocity is 0} \\
-x_0 &= C = 0 \\
-x_t &= \dot{x}(t)t + x_0
-
-
+x_t &= \int_0^t\int_0^t \ddot{x} {dt}^2 \\
 \end{align*}
 $$
 
 $$
-x_t = \int_0^t\int_0^t \ddot{x} {dt}^2
+
 $$
 
 $$
