@@ -4,16 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "efcd389e1b288e94",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Robotics/Control System/Time Domain/Control Systems Engineering by Norman S. Nise.pdf"
-          }
-        }
-      },
-      {
         "id": "35ffaaa0f6d4b102",
         "type": "leaf",
         "state": {
