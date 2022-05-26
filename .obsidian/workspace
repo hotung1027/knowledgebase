@@ -8,18 +8,38 @@
         "type": "split",
         "children": [
           {
-            "id": "a2f5db8cfb301552",
-            "type": "leaf",
+            "id": "68e7be690d5366d7",
+            "type": "split",
             "dimension": 70.77244258872652,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Robotics/Control System/Time Domain/Linear System.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "children": [
+              {
+                "id": "a2f5db8cfb301552",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Robotics/Control System/Time Domain/Linear System.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "69e0f93173a98259",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Robotics/Control System/Time Domain/Linear System.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           },
           {
             "id": "efcd389e1b288e94",
@@ -179,7 +199,7 @@
     "direction": "horizontal",
     "width": 501
   },
-  "active": "a2f5db8cfb301552",
+  "active": "69e0f93173a98259",
   "lastOpenFiles": [
     "Robotics/Control System/Time Domain/Linear System.md",
     "Computer Science/Problems/Dynamic Programming/Untitled.md",
