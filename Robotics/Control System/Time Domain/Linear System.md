@@ -18,10 +18,8 @@ x_t &= \int_0^t\int_0^t \ddot{x} {dt}^2 \\
 \end{align*}
 $$
 
-The ContDiscretised form can be rewriten
-$$
+The Continuous Time Varying form can be rewritten as the Discretised form as below,
 
-$$
 
 $$
 \begin{align*}
