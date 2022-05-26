@@ -9,5 +9,6 @@
     "en-US"
   ],
   "trashOption": "local",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true
 }
