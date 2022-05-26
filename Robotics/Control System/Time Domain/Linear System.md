@@ -11,7 +11,7 @@ $$
 $$
 $$
 \begin{align*}
-x &= x_0 + \dot{x}t \\
-x &= \frac{d^2}{dt^2} x
+x_{t+1} &= x_t + \dot{x}t \\
+x_{t+1} &= x_t + \dot{x} + \frac{1}{2} \ddot{x}^2
 \end{align*}
 $$
