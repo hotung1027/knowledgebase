@@ -31,4 +31,4 @@ $$
 
 
 Then we can form a general state representation as, $q = [x , \dot{x} , \ddot{x}]^T$
-The prior estimate $\hat{q}$
+The prior estimate $\hat{q}_{t+1|t} = A\hat{q_t} + B u$
