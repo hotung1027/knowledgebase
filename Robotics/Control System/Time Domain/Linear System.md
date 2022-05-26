@@ -23,7 +23,7 @@ The Continuous Time Varying form can be rewritten as the Discretised form as bel
 
 $$
 \begin{align*}
-x_{t+1} &= x_t + \dot{x_t}t \\
+\dot{x}_{t+1} &= \dot{x}_t + \ddot{x_t}t \\
 x_{t+1} &= x_t + \dot{x_t}t + \frac{1}{2} \ddot{x_t}t^2
 \end{align*}
 $$
