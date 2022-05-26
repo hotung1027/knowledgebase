@@ -6,7 +6,7 @@ tags :
 ###### tags: `Hacker Rank`
 # Sequence Full of Color
 
-## Problem
+# Problem
 
 
 Source
