@@ -7,8 +7,13 @@
         "id": "010c24deb52d3403",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_templates/problem-solving.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -121,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_templates/problem-solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_templates/problem-solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,11 +164,11 @@
   },
   "active": "010c24deb52d3403",
   "lastOpenFiles": [
-    "Computer Science/Problems/Dynamic Programming/ALKSJALD.md",
     "_templates/problem-solving.md",
     "_templates/page.md",
-    "Untitled.md",
     "Computer Science/Problems/Dynamic Programming/Untitled.md",
+    "Computer Science/Problems/Dynamic Programming/ALKSJALD.md",
+    "Untitled.md",
     "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
     "ape.md",
     "new apge.md",
