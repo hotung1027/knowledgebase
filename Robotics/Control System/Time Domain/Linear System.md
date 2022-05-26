@@ -11,7 +11,7 @@ $$
 $$
 $$
 \begin{align*}
-\dot{x} &= \frac{d}{dt} x \\
-\ddot{x} &= \frac{d^2}{dt^2} x
+x &= x_0 + \dot{x}t \\
+x &= \frac{d^2}{dt^2} x
 \end{align*}
 $$
