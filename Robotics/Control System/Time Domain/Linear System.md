@@ -34,6 +34,10 @@ Then we can form a general state representation as, $q = [x , \dot{x} , \ddot{x}
 The prior estimate $\hat{q}_{t+1|t} = A\hat{q_t} + B u$
 $$ A =
 \begin{bmatrix}
- 1 & 2\\
+ 1 & dt & \frac{1}{2}dt^2\\
+ 0 & 1 & dt \\
+ 0 & 0 & 1
 \end{bmatrix}
+
+B = \begin{bmatrix}
 $$
