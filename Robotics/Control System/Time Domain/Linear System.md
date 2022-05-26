@@ -18,6 +18,7 @@ x_t &= \int_0^t\int_0^t \ddot{x} {dt}^2 \\
 \end{align*}
 $$
 
+The ContDiscretised form can be rewriten
 $$
 
 $$
