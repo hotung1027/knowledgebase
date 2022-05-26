@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "f4fff461208bb3f4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ape.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "46635d8241ff0d13",
+        "type": "split",
+        "children": [
+          {
+            "id": "da3c5ac112a768ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4fff461208bb3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ape.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,24 +101,9 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2dbfa09e2bc471",
-        "type": "tabs",
-        "dimension": 22.44258872651357,
-        "children": [
-          {
-            "id": "da3c5ac112a768ef",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "0927d371d2fdfd4e",
         "type": "tabs",
-        "dimension": 22.44258872651357,
+        "dimension": 20.244821092278716,
         "children": [
           {
             "id": "2d8a1679d37d8724",
@@ -118,7 +118,7 @@
       {
         "id": "bdef81d6a3fec593",
         "type": "tabs",
-        "dimension": 21.816283924843425,
+        "dimension": 19.679849340866294,
         "children": [
           {
             "id": "efa4d9e12b60bacf",
@@ -137,7 +137,7 @@
       {
         "id": "8489bf04e578ce96",
         "type": "tabs",
-        "dimension": 33.298538622129435,
+        "dimension": 60.07532956685499,
         "children": [
           {
             "id": "8765b7a1c14bb084",
