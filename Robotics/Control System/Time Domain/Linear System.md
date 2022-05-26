@@ -15,6 +15,7 @@ $$
 \begin{align*}
 x(t) &= \int_0^t \dot{x}(t) dt \\
 x(t) &= \int_0^t\int_0^t \ddot{x} {dt}^2 \\
+\dot{x}(t)&= \int_0^t \ddot{x} {dt} \\
 \end{align*}
 $$
 
@@ -28,3 +29,5 @@ x_{t+1} &= x_t + \dot{x_t}t + \frac{1}{2} \ddot{x_t}t^2
 \end{align*}
 $$
 
+
+Then we can form a general stat
