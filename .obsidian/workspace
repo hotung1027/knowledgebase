@@ -4,33 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4f9244dbddbb53b5",
+        "id": "4e0906d5a7c5723c",
         "type": "split",
         "children": [
           {
-            "id": "8965138669255344",
-            "type": "leaf",
-            "dimension": 24.53027139874739,
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            },
-            "group": "68990a74f65835f4"
-          },
-          {
             "id": "a2f5db8cfb301552",
             "type": "leaf",
-            "dimension": 75.46972860125261,
+            "dimension": 70.77244258872652,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            },
-            "group": "68990a74f65835f4"
+            }
+          },
+          {
+            "id": "efcd389e1b288e94",
+            "type": "leaf",
+            "dimension": 29.227557411273487,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
         ],
         "direction": "horizontal"
@@ -184,9 +182,9 @@
   "active": "a2f5db8cfb301552",
   "lastOpenFiles": [
     "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
+    "_templates/problem-solving.md",
     "Computer Science/Problems/Dynamic Programming/Untitled.md",
     "Untitled.md",
-    "_templates/problem-solving.md",
     "_templates/page.md",
     "Computer Science/Problems/Dynamic Programming/ALKSJALD.md",
     "ape.md",

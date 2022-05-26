@@ -20,15 +20,15 @@ The test cases are generated so that the answer fits in a **32-bits** integer.
 
 
 ```
-**Input:** root = [1,0,1,0,1,0,1]
-**Output:** 22
-**Explanation:** (100) + (101) + (110) + (111) = 4 + 5 + 6 + 7 = 22
+Input: root = [1,0,1,0,1,0,1]
+Output: 22
+Explanation: (100) + (101) + (110) + (111) = 4 + 5 + 6 + 7 = 22
 
 ```
 
 **Example 2:**
 ```
-**Input:** root = [0]
+Input:** root = [0]
 **Output:** 0
 ```
  
