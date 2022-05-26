@@ -1,9 +1,11 @@
 # Linear System
 ## State-Space Representation
 
-suppose a 1-dimensional system in cartesian coordinate systems, $x$ ,
+Suppose a 1-dimensional system in cartesian coordinate systems, $x$ .
+The derivated d
 $$
 \begin{align*}
-\dot{x} = \frac{d}{dt} x
+\dot{x} &= \frac{d}{dt} x \\
+\ddot{x} &= \frac{d^2}{dt^2} x
 \end{align*}
 $$
