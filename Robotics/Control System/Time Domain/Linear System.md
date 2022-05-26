@@ -1,19 +1,19 @@
 # Linear System
 ## State-Space Representation
 
-Suppose a 1-dimensional system in cartesian coordinate systems, $x$ .
+Suppose a 1-dimensional system in cartesian coordinate systems, $x(t)$ .
 The deviated derivative notation are shown as below.
 $$
 \begin{align*}
-\dot{x} &= \frac{d}{dt} x \\
-\ddot{x} &= \frac{d^2}{dt^2} x
+\dot{x(t)} &= \frac{d}{dt} x(t) \\
+\ddot{x(t)} &= \frac{d^2}{dt^2} x(t)
 \end{align*}
 $$
 
 Now we trying to derive the position $x$ , from speed $\dot{x}$ and acceleration $\ddot{x}$ respectively.
 $$
 \begin{align*}
-x_t &= \int_0^t \dot{x} dt \\
+x_t &= \int_0^t \dot{x(t)} dt \\
 x_t &= x_t t - x_o t + C \\
 &\text{when t = 0, and intial velocity is 0} \\
 x_0 &= C = 0 \\
