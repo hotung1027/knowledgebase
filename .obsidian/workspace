@@ -12,6 +12,19 @@
             "file": "Robotics/Control System/Time Domain/Control Systems Engineering by Norman S. Nise.pdf"
           }
         }
+      },
+      {
+        "id": "c2a885426410597f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Robotics/Control System/Time Domain/Linear System.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a98488dc8b8cafbb",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics/Control System/Time Domain/Control Systems Engineering by Norman S. Nise.pdf",
+                "file": "Robotics/Control System/Time Domain/Linear System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/Control System/Time Domain/Control Systems Engineering by Norman S. Nise.pdf",
+                "file": "Robotics/Control System/Time Domain/Linear System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,10 +173,10 @@
     "direction": "horizontal",
     "width": 501
   },
-  "active": "35ffaaa0f6d4b102",
+  "active": "c2a885426410597f",
   "lastOpenFiles": [
-    "Robotics/Control System/Time Domain/Control Systems Engineering by Norman S. Nise.pdf",
     "Robotics/Control System/Time Domain/Linear System.md",
+    "Robotics/Control System/Time Domain/Control Systems Engineering by Norman S. Nise.pdf",
     "Computer Science/Problems/Dynamic Programming/Untitled.md",
     "Computer Science/Problems/Dynamic Programming/Sequence Full of Color.md",
     "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
