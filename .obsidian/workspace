@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3e2d808d092e54a1",
+        "id": "4f9244dbddbb53b5",
         "type": "split",
         "children": [
           {
-            "id": "f138a782da35f6d3",
+            "id": "8965138669255344",
             "type": "leaf",
-            "dimension": 29.540709812108563,
+            "dimension": 24.53027139874739,
             "state": {
               "type": "mindmap",
               "state": {}
-            }
+            },
+            "group": "68990a74f65835f4"
           },
           {
             "id": "a2f5db8cfb301552",
             "type": "leaf",
-            "dimension": 70.45929018789144,
+            "dimension": 75.46972860125261,
             "state": {
               "type": "markdown",
               "state": {
@@ -28,7 +29,8 @@
                 "backlinks": true,
                 "source": false
               }
-            }
+            },
+            "group": "68990a74f65835f4"
           }
         ],
         "direction": "horizontal"
