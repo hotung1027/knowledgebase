@@ -10,10 +10,12 @@ $$
 \end{align*}
 $$
 
-Now we trying to derive the position $x$ , from speed $\dot{x}$ and acceleration $\ddot{x}$ respectively
+Now we trying to derive the position $x$ , from speed $\dot{x}$ and acceleration $\ddot{x}$ respectively.
 $$
 \begin{align*}
 x_t &= \int_0^t \dot{x} dt \\
+x_t &= x_t t - x_o t + C \\
+
 \end{align*}
 $$
 
