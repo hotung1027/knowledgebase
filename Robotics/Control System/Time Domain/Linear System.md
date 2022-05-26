@@ -30,4 +30,4 @@ x_{t+1} &= x_t + \dot{x_t}t + \frac{1}{2} \ddot{x_t}t^2
 $$
 
 
-Then we can form a general stat
+Then we can form a general state representation as, $q = [x , \dot{x} ]^T$
