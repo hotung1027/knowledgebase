@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7cfca7ad9eac8f2e",
+        "id": "f4fff461208bb3f4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "new apge.md",
+            "file": "ape.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new apge.md",
+                "file": "ape.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new apge.md",
+                "file": "ape.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,17 +162,17 @@
     "direction": "horizontal",
     "width": 501
   },
-  "active": "7cfca7ad9eac8f2e",
+  "active": "f4fff461208bb3f4",
   "lastOpenFiles": [
+    "ape.md",
+    "Untitled.md",
     "new apge.md",
     "README.md",
-    "Untitled.md",
     "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
     "_templates/page.md",
     "Index.md",
     "Reader.md",
     "Digest.md",
-    "condom.md",
-    "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md"
+    "condom.md"
   ]
 }
