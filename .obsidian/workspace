@@ -4,124 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "82b192d7124e53b2",
-        "type": "split",
-        "children": [
-          {
-            "id": "76d70d9018d5f0f8",
-            "type": "leaf",
-            "dimension": 15.149735760422784,
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md"
-              }
-            }
-          },
-          {
-            "id": "d5ca4593c5341e40",
-            "type": "split",
-            "dimension": 84.85026423957723,
-            "children": [
-              {
-                "id": "3c39bfa2e277eadf",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "739647f1bbfac692",
-                    "type": "leaf",
-                    "dimension": 28.640776699029125,
-                    "pinned": true,
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
-                        "options": {
-                          "collapse-filter": true,
-                          "search": "",
-                          "localJumps": 1,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": true,
-                          "colorGroups": [],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": 0,
-                          "nodeSizeMultiplier": 1,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 1,
-                          "close": false
-                        }
-                      },
-                      "pinned": true
-                    },
-                    "group": "7fc57a51b4e9e729"
-                  },
-                  {
-                    "id": "99987d7a39d787b6",
-                    "type": "leaf",
-                    "dimension": 71.35922330097088,
-                    "state": {
-                      "type": "graph",
-                      "state": {}
-                    }
-                  }
-                ],
-                "direction": "vertical"
-              },
-              {
-                "id": "87016c4d29065363",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "86467d7677280840",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
-                        "mode": "source",
-                        "backlinks": false,
-                        "source": true
-                      },
-                      "pinned": true
-                    },
-                    "group": "7fc57a51b4e9e729"
-                  },
-                  {
-                    "id": "7ca4870db4388d67",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
-                        "mode": "preview",
-                        "backlinks": false,
-                        "source": true
-                      },
-                      "pinned": true
-                    },
-                    "group": "7fc57a51b4e9e729"
-                  }
-                ],
-                "direction": "vertical"
-              }
-            ],
-            "direction": "horizontal"
+        "id": "bbcc42d6e47675db",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_templates/page.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "direction": "vertical"
+        }
       }
     ],
     "direction": "vertical"
@@ -193,9 +86,24 @@
     "type": "split",
     "children": [
       {
+        "id": "4a2dbfa09e2bc471",
+        "type": "tabs",
+        "dimension": 22.44258872651357,
+        "children": [
+          {
+            "id": "da3c5ac112a768ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "0927d371d2fdfd4e",
         "type": "tabs",
-        "dimension": 44.879518072289144,
+        "dimension": 22.44258872651357,
         "children": [
           {
             "id": "2d8a1679d37d8724",
@@ -210,7 +118,7 @@
       {
         "id": "bdef81d6a3fec593",
         "type": "tabs",
-        "dimension": 21.762048192771086,
+        "dimension": 21.816283924843425,
         "children": [
           {
             "id": "efa4d9e12b60bacf",
@@ -218,9 +126,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
+                "file": "_templates/page.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -229,7 +137,7 @@
       {
         "id": "8489bf04e578ce96",
         "type": "tabs",
-        "dimension": 33.35843373493976,
+        "dimension": 33.298538622129435,
         "children": [
           {
             "id": "8765b7a1c14bb084",
@@ -237,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
+                "file": "_templates/page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,11 +160,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497
+    "width": 501
   },
-  "active": "86467d7677280840",
+  "active": "bbcc42d6e47675db",
   "lastOpenFiles": [
-    "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
-    "Untitled.md"
+    "_templates/page.md",
+    "README.md",
+    "Index.md",
+    "Reader.md",
+    "Digest.md",
+    "condom.md",
+    "_templates/page.md",
+    "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
+    "2022-05-25.md",
+    "logseq/bak/_templates/page/2022-05-26T00_31_51.852Z.md"
   ]
 }
