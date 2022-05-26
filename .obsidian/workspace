@@ -10,6 +10,7 @@
           {
             "id": "f138a782da35f6d3",
             "type": "leaf",
+            "dimension": 29.540709812108563,
             "state": {
               "type": "mindmap",
               "state": {}
@@ -18,11 +19,12 @@
           {
             "id": "a2f5db8cfb301552",
             "type": "leaf",
+            "dimension": 70.45929018789144,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
