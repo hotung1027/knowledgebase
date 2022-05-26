@@ -32,7 +32,8 @@ $$
 
 Then we can form a general state representation as, $q = [x , \dot{x} , \ddot{x}]^T$ , the control input $u$
 The prior estimate $\hat{q}_{t+1|t} = A\hat{q_t} + B u$
-$$
-\begin{matrix}
-A = [ ]
+$$ A =
+\begin{bmatrix}
+ 1 & 2\\
+\end{bmatrix}
 $$
