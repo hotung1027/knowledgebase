@@ -1,7 +1,7 @@
 ---
-creation date : <% tp.file.creation_date() %> 
-modification date : <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %> 
-tags : <% tp.file.tags %>
+creation date : 2022-05-26 09:19 
+modification date : Thursday 26th May 2022 09:19:26 
+alias : <% tp.frontmatter.alias %>
 ---
 
 <% tp.date.now("YYYY-MM-DD", 1) %> 
