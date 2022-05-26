@@ -7,16 +7,6 @@
         "id": "35ffaaa0f6d4b102",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Robotics/Control System/Time Domain/Control Systems Engineering by Norman S. Nise.pdf"
-          }
-        }
-      },
-      {
-        "id": "c2a885426410597f",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
             "file": "Robotics/Control System/Time Domain/Linear System.md",
@@ -86,11 +76,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "9ad7e281b6cf5a26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d8a1679d37d8724",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a98488dc8b8cafbb",
@@ -99,7 +102,7 @@
       {
         "id": "53bd0561d12e0336",
         "type": "tabs",
-        "dimension": 8.097686375321338,
+        "dimension": 13.606911447084236,
         "children": [
           {
             "id": "da3c5ac112a768ef",
@@ -112,24 +115,9 @@
         ]
       },
       {
-        "id": "0927d371d2fdfd4e",
-        "type": "tabs",
-        "dimension": 40.488431876606676,
-        "children": [
-          {
-            "id": "2d8a1679d37d8724",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "bdef81d6a3fec593",
         "type": "tabs",
-        "dimension": 25.706940874035986,
+        "dimension": 43.19654427645788,
         "children": [
           {
             "id": "efa4d9e12b60bacf",
@@ -148,7 +136,7 @@
       {
         "id": "8489bf04e578ce96",
         "type": "tabs",
-        "dimension": 25.706940874035986,
+        "dimension": 43.19654427645788,
         "children": [
           {
             "id": "8765b7a1c14bb084",
@@ -171,12 +159,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 501
+    "width": 416
   },
-  "active": "c2a885426410597f",
+  "active": "35ffaaa0f6d4b102",
   "lastOpenFiles": [
     "Robotics/Control System/Time Domain/Linear System.md",
     "Robotics/Control System/Time Domain/Control Systems Engineering by Norman S. Nise.pdf",
+    "2022-05-26.md",
     "Computer Science/Problems/Dynamic Programming/Untitled.md",
     "Computer Science/Problems/Dynamic Programming/Sequence Full of Color.md",
     "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
