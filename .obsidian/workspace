@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bbcc42d6e47675db",
+        "id": "7cfca7ad9eac8f2e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -162,17 +162,16 @@
     "direction": "horizontal",
     "width": 501
   },
-  "active": "bbcc42d6e47675db",
+  "active": "7cfca7ad9eac8f2e",
   "lastOpenFiles": [
     "_templates/page.md",
+    "new apge.md",
     "README.md",
     "Index.md",
     "Reader.md",
     "Digest.md",
     "condom.md",
-    "_templates/page.md",
     "<% tp.date.now(\"YYYY-MM-DD\", -1) %>.md",
-    "2022-05-25.md",
-    "logseq/bak/_templates/page/2022-05-26T00_31_51.852Z.md"
+    "2022-05-25.md"
   ]
 }
