@@ -11,7 +11,7 @@ $$
 $$
 $$
 \begin{align*}
-x_{t+1} &= x_t + \dot{x}t \\
-x_{t+1} &= x_t + \dot{x} + \frac{1}{2} \ddot{x}^2
+x_{t+1} &= x_t + \dot{x_t}t \\
+x_{t+1} &= x_t + \dot{x_t}t + \frac{1}{2} \ddot{x_t}t^2
 \end{align*}
 $$
