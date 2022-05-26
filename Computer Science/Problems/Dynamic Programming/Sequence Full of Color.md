@@ -4,10 +4,10 @@ tags :
 - Hacker-Rank
 ---
 ###### tags: `Hacker Rank`
+# Sequence Full of Color
 
+## Problem
 
-Problem
-===
 
 Source
 ---
@@ -83,7 +83,7 @@ main = do
   replicateM_ lines (getLine >>= print . (`colorSequence` (0,0,0,0)))
 ````
 
-Hierarcy Decompsition
+Hierarchy Decomposition
 ---
 
 Further Readings
