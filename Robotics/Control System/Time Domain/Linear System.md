@@ -1,7 +1,7 @@
 # Linear System
 ## State-Space Representation
 
-Suppose a 1-dimensional system in cartesian coordinate systems, $x(t)$ .
+Suppose a 1-dimensional system in cartesian coordinate systems, varying with time, $x(t)$ .
 The deviated derivative notation are shown as below.
 $$
 \begin{align*}
