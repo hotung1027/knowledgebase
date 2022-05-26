@@ -39,5 +39,14 @@ $$ A =
  0 & 0 & 1
 \end{bmatrix}
 
+
+
+$$
+
+$$
 B = \begin{bmatrix}
+0 \\ 
+0 \\
+1
+\end{bmatrix}
 $$
