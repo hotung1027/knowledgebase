@@ -13,8 +13,8 @@ $$
 Now we trying to derive the position $x$ , from speed $\dot{x}$ and acceleration $\ddot{x}$ respectively.
 $$
 \begin{align*}
-x_t &= \int_0^t \dot{x}(t) dt \\
-x_t &= \int_0^t\int_0^t \ddot{x} {dt}^2 \\
+x(t) &= \int_0^t \dot{x}(t) dt \\
+x(t) &= \int_0^t\int_0^t \ddot{x} {dt}^2 \\
 \end{align*}
 $$
 
@@ -27,3 +27,4 @@ $$
 x_{t+1} &= x_t + \dot{x_t}t + \frac{1}{2} \ddot{x_t}t^2
 \end{align*}
 $$
+
