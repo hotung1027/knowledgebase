@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics/Control System/Linear System.md",
+                "file": "Robotics/Control System/Time Domain/Linear System.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Robotics/Control System/Linear System.md",
+                "file": "Robotics/Control System/Time Domain/Linear System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Robotics/Control System/Linear System.md",
+                "file": "Robotics/Control System/Time Domain/Linear System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
   },
   "active": "a2f5db8cfb301552",
   "lastOpenFiles": [
-    "Robotics/Control System/Linear System.md",
+    "Robotics/Control System/Time Domain/Linear System.md",
     "Computer Science/Problems/Dynamic Programming/Untitled.md",
     "Computer Science/Problems/Dynamic Programming/Sequence Full of Color.md",
     "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
