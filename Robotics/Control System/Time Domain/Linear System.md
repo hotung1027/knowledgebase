@@ -10,10 +10,10 @@ $$
 \end{align*}
 $$
 
+For $\dot{x}$ , 
 $$
 \begin{align*}
 x_t &= \int_0^t \dot{x} dt \\
-
 \end{align*}
 $$
 
