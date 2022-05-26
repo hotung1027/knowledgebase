@@ -12,7 +12,7 @@ $$
 
 $$
 \begin{align*}
-x &= \integrate \\
+x &= \int \dot{x} dt \\
 \ddot{x} &= \frac{d^2}{dt^2} x
 \end{align*}
 $$
