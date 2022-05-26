@@ -1,7 +1,7 @@
 ---
 tags : 
-	- Leet-Code
-	- Binary-Tree
+- Leet-Code
+- Binary-Tree
 date : 11-01-2022
 ---
 # Sum of Root To Leaf Binary Numbers
