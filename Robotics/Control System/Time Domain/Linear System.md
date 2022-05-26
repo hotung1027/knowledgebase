@@ -15,6 +15,8 @@ $$
 \begin{align*}
 x_t &= \int_0^t \dot{x} dt \\
 x_t &= x_t t - x_o t + C \\
+& \text{when t = 0} \\
+C &= x_0
 
 \end{align*}
 $$
