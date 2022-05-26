@@ -9,6 +9,14 @@ $$
 \ddot{x} &= \frac{d^2}{dt^2} x
 \end{align*}
 $$
+
+$$
+\begin{align*}
+x &= \integrate \\
+\ddot{x} &= \frac{d^2}{dt^2} x
+\end{align*}
+$$
+
 $$
 \begin{align*}
 x_{t+1} &= x_t + \dot{x_t}t \\
