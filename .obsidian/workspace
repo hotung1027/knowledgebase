@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_templates/Untitled.md",
+            "file": "_templates/problem-solving.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tp.file.tags",
+                "query": "tag:#%>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templates/Untitled.md",
+                "file": "_templates/problem-solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templates/Untitled.md",
+                "file": "_templates/problem-solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
   },
   "active": "94a14c53175dc817",
   "lastOpenFiles": [
-    "_templates/Untitled.md",
+    "_templates/problem-solving.md",
     "_templates/page.md",
     "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
     "ape.md",
