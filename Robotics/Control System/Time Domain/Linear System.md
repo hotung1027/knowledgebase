@@ -15,8 +15,9 @@ $$
 \begin{align*}
 x_t &= \int_0^t \dot{x} dt \\
 x_t &= x_t t - x_o t + C \\
-&\text{when t = 0, and x ini} \\
-x_0 &= C \\
+&\text{when t = 0, and intial velocity is 0} \\
+x_0 &= C = 0 \\
+x_t &= x_tt + x_0
 
 
 \end{align*}
