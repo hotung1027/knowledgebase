@@ -10,22 +10,23 @@
           {
             "id": "76d70d9018d5f0f8",
             "type": "leaf",
-            "dimension": 4.27293805895992,
+            "dimension": 15.320512820512823,
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyLog/2022-09-30.md"
+                "file": "DailyLog/2022-10-06.md"
               }
             }
           },
           {
             "id": "4d14a7db8f15c1ee",
             "type": "split",
-            "dimension": 95.72706194104008,
+            "dimension": 84.67948717948718,
             "children": [
               {
                 "id": "739647f1bbfac692",
                 "type": "leaf",
+                "dimension": 19.841269841269842,
                 "pinned": true,
                 "state": {
                   "type": "localgraph",
@@ -63,10 +64,11 @@
               {
                 "id": "1c626aa2f564f452",
                 "type": "leaf",
+                "dimension": 80.15873015873017,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "DailyLog/2022-09-30.md",
+                    "file": "DailyLog/2022-10-06.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
@@ -176,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyLog/2022-09-30.md",
+                "file": "DailyLog/2022-10-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyLog/2022-09-30.md",
+                "file": "DailyLog/2022-10-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,13 +215,17 @@
     "width": 497,
     "collapsed": true
   },
-  "active": "6c78751e9e47a816",
+  "active": "1c626aa2f564f452",
   "lastOpenFiles": [
+    "DailyLog/2022-10-05.md",
+    "DailyLog/2022-10-06.md",
+    "Signal Processing/Phased Array/Beam Pattern.md",
+    "Pasted image 20220930130926.png",
+    "Pasted image 20220930130903.png",
+    "README.md",
+    "SideLobes.md",
     "FPGA/Xilinx Model Composer/AXI/FFT Burst IO.md",
     "DailyLog/2022-09-20.md",
-    "DailyLog/2022-09-19.md",
-    "Computer Science/Problems/Dynamic Programming/Sum of Root To Leaf Binary Numbers.md",
-    "Signal Processing/Phased Array/Beam Pattern.md",
-    "SideLobes.md"
+    "DailyLog/2022-09-30.md"
   ]
 }
