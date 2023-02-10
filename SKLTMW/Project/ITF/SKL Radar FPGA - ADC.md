@@ -36,7 +36,7 @@ Interface Type : [[AXI4]], [[AXI4-Stream]]
 | 0x0C | Transmit Limit |  |  |  |  |  |  |  |  |
 | 0x10 | ADC Status | N/A | N/A | N/A | N/A | N/A | N/A | N/A | ADC Done |
 | 0x14 | ADC Control | N/A | N/A | N/A | N/A | N/A | N/A | N/A | ADC Enable |
-
+![[Pasted image 20230113222308.png]]
 #### Ports:
 - i_Trigger: External Trigger of ADC, trigger on falling edge
 - i_Mode: Debug External Control, data will be sequential data instead of ADC sampled data when logic low 
