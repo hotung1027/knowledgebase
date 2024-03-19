@@ -1,7 +1,9 @@
 {
   "commitMessage": "vault backup: {{date}}",
+  "autoCommitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
+  "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
   "disablePush": false,
@@ -10,9 +12,15 @@
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": true,
-  "gitPath": "",
-  "customMessageOnAutoBackup": false,
+  "syncMethod": "merge",
+  "customMessageOnAutoBackup": true,
   "autoBackupAfterFileChange": true,
-  "mergeOnPull": true,
-  "treeStructure": false
+  "treeStructure": false,
+  "refreshSourceControl": true,
+  "basePath": "",
+  "differentIntervalCommitAndPush": true,
+  "changedFilesInStatusBar": false,
+  "username": "",
+  "showedMobileNotice": true,
+  "refreshSourceControlTimer": 7000
 }

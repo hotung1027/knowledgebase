@@ -1,0 +1,69 @@
+
+Primitive: Differential Input Buffer
+
+-   PRIMITIVE_GROUP: [I/O](https://docs.xilinx.com/r/c6pF4wqVOxoZno96ra6eOQ/E74UR7~TIT0M~MTq~K4F_g?section=afa1597092835409__io)
+-   PRIMITIVE_SUBGROUP: INPUT_BUFFER
+-   Families: UltraScale, UltraScale+
+
+![](data:image/png;base64,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)
+
+## Introduction
+
+The usage and rules corresponding to the differential primitives are similar to the single-ended SelectIO primitives. Differential SelectIO primitives have two pins to and from the device pads to show the P and N channel pins in a differential pair. N channel pins have a B suffix.
+
+I/O attributes that do not impact the logic function of the component, such as IOSTANDARD, DIFF_TERM, and IBUF_LOW_PWR, should be supplied to the top-level port via an appropriate property. For details on applying such properties to the associated port, see the Vivado Design Suite Properties Reference Guide (UG912).
+
+
+## Logic Table
+
+![[Pasted image 20221206165919.png]]
+## Port Description
+![[Pasted image 20221206165938.png]]
+
+## VHDL Instantiation Template
+
+Unless they already exist, copy the following two statements and paste them before the entity declaration.
+
+```
+Library UNISIM;
+use UNISIM.vcomponents.all;
+```
+
+```
+
+-- IBUFDS: Differential Input Buffer
+--         UltraScale
+-- Xilinx HDL Language Template, version 2021.1
+
+IBUFDS_inst : IBUFDS
+port map (
+   O => O,   -- 1-bit output: Buffer output
+   I => I,   -- 1-bit input: Diff_p buffer input (connect directly to top-level port)
+   IB => IB  -- 1-bit input: Diff_n buffer input (connect directly to top-level port)
+);
+
+-- End of IBUFDS_inst instantiation
+```
+
+## Verilog Instantiation Template
+
+```
+
+// IBUFDS: Differential Input Buffer
+//         UltraScale
+// Xilinx HDL Language Template, version 2021.1
+
+IBUFDS IBUFDS_inst (
+   .O(O),   // 1-bit output: Buffer output
+   .I(I),   // 1-bit input: Diff_p buffer input (connect directly to top-level port)
+   .IB(IB)  // 1-bit input: Diff_n buffer input (connect directly to top-level port)
+);
+
+// End of IBUFDS_inst instantiation
+```
+
+## Related Information
+
+-   See the UltraScale Architecture SelectIO Resources User Guide ([UG571](https://www.xilinx.com/cgi-bin/docs/ndoc?t=user+guide;d=ug571-ultrascale-selectio.pdf)).
+-   See the Vivado Design Suite Properties Reference Guide ([UG912](https://www.xilinx.com/cgi-bin/docs/rdoc?v=latest;d=ug912-vivado-properties.pdf)).
+
